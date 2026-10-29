@@ -23,9 +23,7 @@ Google AI Studio
 
 ## Prompt Used
 Create a professional cybersecurity website named CyberAssist AI with an AI-powered chatbot. The chatbot should answer cybersecurity-related questions in simple English and Urdu. Design a modern, responsive interface with a clean layout that helps students learn about cybersecurity, networking, ethical hacking, and online safety..
-
-### Working Chatbot
-
+ 
 
 
 ## What I Learned
